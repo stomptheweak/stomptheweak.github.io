@@ -2,7 +2,7 @@
 title: Stomp The Weak
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Stomp The Weak is dedicated to putting and end to hypersensitivity and incessant whining worldwide.
+  Stomp The Weak is dedicated to putting an end to hypersensitivity and weakness worldwide.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://locahost:4000" # the base hostname & protocol for your site  
 
